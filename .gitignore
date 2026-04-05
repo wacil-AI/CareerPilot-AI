@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Personal files
+*.pdf
+data/candidates.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/

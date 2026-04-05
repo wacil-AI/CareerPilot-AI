@@ -1,0 +1,74 @@
+[
+  {
+    "id": "job_001",
+    "title": "ML Engineer Intern",
+    "company": "BNP Paribas",
+    "location": "Paris, France",
+    "salary_min": 1200,
+    "salary_max": 1600,
+    "domain": "Finance",
+    "required_skills": ["Python", "PyTorch", "scikit-learn", "Time Series Forecasting"],
+    "seniority": "junior",
+    "description": "Join our AI team to build predictive models for credit risk and market volatility. Work with large financial datasets and deploy models in production."
+  },
+  {
+    "id": "job_002",
+    "title": "Deep Learning Research Intern",
+    "company": "Inria",
+    "location": "Paris, France",
+    "salary_min": 1000,
+    "salary_max": 1400,
+    "domain": "Artificial Intelligence",
+    "required_skills": ["Python", "PyTorch", "Deep Learning", "Graph Neural Networks"],
+    "seniority": "junior",
+    "description": "Research internship focused on graph neural networks for knowledge representation. You will contribute to publications and prototype novel architectures."
+  },
+  {
+    "id": "job_003",
+    "title": "NLP Engineer",
+    "company": "Mistral AI",
+    "location": "Paris, France",
+    "salary_min": 55000,
+    "salary_max": 75000,
+    "domain": "Artificial Intelligence",
+    "required_skills": ["Python", "Transformers", "Hugging Face", "NLP", "CUDA", "PyTorch"],
+    "seniority": "mid",
+    "description": "Work on large language model fine-tuning and evaluation. Requires solid experience with Hugging Face ecosystem and distributed training."
+  },
+  {
+    "id": "job_004",
+    "title": "Quantitative Analyst",
+    "company": "Societe Generale CIB",
+    "location": "Paris, France",
+    "salary_min": 65000,
+    "salary_max": 85000,
+    "domain": "Finance",
+    "required_skills": ["Python", "C++", "Statistics", "Optimization", "Time Series"],
+    "seniority": "senior",
+    "description": "Design and implement quantitative models for derivatives pricing and risk management. Requires 5+ years experience in quantitative finance."
+  },
+  {
+    "id": "job_005",
+    "title": "AI Research Engineer Intern",
+    "company": "Airbus",
+    "location": "Toulouse, France",
+    "salary_min": 1100,
+    "salary_max": 1500,
+    "domain": "Aerospace",
+    "required_skills": ["Python", "Deep Learning", "Optimization", "MATLAB"],
+    "seniority": "junior",
+    "description": "Apply ML and optimization methods to aerospace structural design and predictive maintenance systems."
+  },
+  {
+    "id": "job_006",
+    "title": "Backend Developer",
+    "company": "Leboncoin",
+    "location": "Paris, France",
+    "salary_min": 40000,
+    "salary_max": 50000,
+    "domain": "E-commerce",
+    "required_skills": ["Java", "Kubernetes", "PostgreSQL", "REST APIs", "Microservices"],
+    "seniority": "junior",
+    "description": "Develop and maintain backend microservices for a high-traffic e-commerce platform. No ML involved."
+  }
+]
