@@ -129,4 +129,3 @@ This is a **learning project** about multi-agent system design. The goal is to u
 - how to enforce structured LLM outputs with Pydantic
 - how to design modular, debuggable pipelines
 
-> Built as part of an MSc in Artificial Intelligence at CentraleSupélec.
